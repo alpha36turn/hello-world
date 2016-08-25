@@ -1,2 +1,2 @@
 # hello-world
-First repository
+I live in the East Bay.
